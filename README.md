@@ -20,7 +20,7 @@ OpenCV – for image capture and processing
 Dlib – for face detection and recognition
 
 
-**Future Improvements
-**
+**Future Improvements**
+
 Integrate with HR system
 NumPy & Pandas – for data handling and HR analytics
