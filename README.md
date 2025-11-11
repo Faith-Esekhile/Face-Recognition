@@ -1,5 +1,4 @@
-**Overview
-**
+**Overview**
 This project is an automated attendance system that uses facial recognition to identify and record individuals in real-time. It leverages OpenCV for image processing and Dlib for face detection and encoding, providing a seamless, contactless attendance experience.
 How It Works
 
